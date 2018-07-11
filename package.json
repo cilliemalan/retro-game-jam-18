@@ -1,0 +1,21 @@
+{
+  "name": "game-jam-18",
+  "version": "1.0.0",
+  "license": "UNLICENSE",
+  "private": true,
+  "serve": {
+    "mode": "development"
+  },
+  "scripts": {
+    "build": "webpack --mode=production",
+    "start": "webpack-serve --open"
+  },
+  "devDependencies": {
+    "webpack": "^4.16.0",
+    "webpack-cli": "^3.0.8",
+    "webpack-serve": "^2.0.2"
+  },
+  "dependencies": {
+    "phaser": "^3.10.1"
+  }
+}

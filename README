@@ -1,0 +1,115 @@
+                                                     ████    
+                                                 ███   █     
+                                            ████     ██      
+                                       █████    █████        
+                                     █        ███           
+                                    █   █    ██  █           
+                                    ██    ███     █          
+                                       ███        █          
+                                    ███            █         
+                                  ██               █         
+                                █                  █         
+                               █                   █         
+                              █                    █         
+                              █                   █         
+                             ███                  █          
+                           █ ██  █          █     █          
+                           █   █ █         █ ██  ██          
+                            ██  ███████████   ████  
+
+       ██████╗  █████╗ ███╗   ███╗███████╗         ██╗ █████╗ ███╗   ███╗
+      ██╔════╝ ██╔══██╗████╗ ████║██╔════╝         ██║██╔══██╗████╗ ████║
+      ██║  ███╗███████║██╔████╔██║█████╗           ██║███████║██╔████╔██║
+      ██║   ██║██╔══██║██║╚██╔╝██║██╔══╝      ██   ██║██╔══██║██║╚██╔╝██║
+      ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗    ╚█████╔╝██║  ██║██║ ╚═╝ ██║      
+       ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝     ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝
+               ▄▄▄▄▄▄▄▄▄▄▄   ▄▄▄▄▄▄▄▄▄     ▄▄▄▄      ▄▄▄▄▄▄▄▄▄▄▄ 
+              ▐░░░░░░░░░░░▌ ▐░░░░░░░░░▌  ▄█░░░░▌    ▐░░░░░░░░░░░▌
+               ▀▀▀▀▀▀▀▀▀█░▌▐░█░█▀▀▀▀▀█░▌▐░░▌▐░░▌    ▐░█▀▀▀▀▀▀▀█░▌
+                        ▐░▌▐░▌▐░▌    ▐░▌ ▀▀ ▐░░▌    ▐░▌       ▐░▌
+                        ▐░▌▐░▌ ▐░▌   ▐░▌    ▐░░▌    ▐░█▄▄▄▄▄▄▄█░▌
+               ▄▄▄▄▄▄▄▄▄█░▌▐░▌  ▐░▌  ▐░▌    ▐░░▌     ▐░░░░░░░░░▌ 
+              ▐░░░░░░░░░░░▌▐░▌   ▐░▌ ▐░▌    ▐░░▌    ▐░█▀▀▀▀▀▀▀█░▌
+              ▐░█▀▀▀▀▀▀▀▀▀ ▐░▌    ▐░▌▐░▌    ▐░░▌    ▐░▌       ▐░▌
+              ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄█░█░▌▄▄▄▄█░░█▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌
+              ▐░░░░░░░░░░░▌ ▐░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+               ▀▀▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀ 
+
+___            
+ | __ _|_ __ _ 
+_|_| | |_ | (_)
+
+Welcome to the 2018 Retro Game Jam. The goal is to create a fun game in a short amount of
+time. The funnest game wins!
+
+ _             
+|_)    |  _  _ 
+| \|_| | (/__> 
+
+* The game must be built around the given assets. You don't need to use all of them
+  and you may scour the internet for other assets if you want. You must keep the general
+  idea of the assets given. (In other words, if the assets are 2D pixel graphics, making
+  a 3D FPS is not going to fly).
+* The rabbits must be the player character graphics.
+* Don't break the law while building your game. Use only royalty free or custom
+  made assets.
+* You may not purchase any software or assets to build your game. You may not use
+  any software you own that will give you an unfair advantage over other participants.
+* Your game assets and source must be licensed with an open source license. Feel free
+  to use the license it currently has (the unlicense) or use another license.
+* The moderators may disqualify your game if they feel that your participation was unfair
+  or not in the spirit of the contest.
+* The game may be written in any programming language on any platform. Note, however, if
+  your platform is not available to voters, they will not be allowed to vote for
+  your game.
+
+
+  |    _| _  o __  _ 
+\_||_|(_|(_| | | |(_|
+         __|      __|
+Judging will be by vote, most votes win. Voters can be anyone but they must play
+all the games made in the game jam to vote. Competitors may ask friends and
+family to participate in the voting.
+
+Voting will take place after all game development is complete.
+
+There may be other sub categories at the moderators' discretion, but main judging will
+be based on the fun-ness of the game alone.
+
+ _                
+|_| _  _  _ _|_ _ 
+| |_> _> (/_ |__> 
+
+In this repository you will find the assets you must use in your game. You don't have to
+use all of the assets and you can add other assets, but your game must retain the general
+idea.
+
+This repo contains example code for a web-based game using the assets. You may use the
+code as a base or start completely from scratch using a different game engine altogether.
+
+ _                    _ 
+|_)    o  |  _| o __ (_|
+|_)|_| |  | (_| | | |__|
+
+To build and run the example, run:
+
+  yarn install
+  yarn run
+
+Your browser will open on port 3000 where the game will be hosted locally.
+
+You may also containerize the application by running:
+
+  docker build -t game-jam
+
+And run it:
+
+  docker run -P game-jam
+
+Your container is listening on port 3000. Your browser will not open automatically.
+                   _ 
+|_| _  _ _|_ o __ (_|
+| |(_)_>  |_ | | |__|
+
+Hosting will be made available upon request. Your server application will need to be
+containerized if you want hosting. Setting up continuous integration is essential.
