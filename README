@@ -91,12 +91,18 @@ code as a base or start completely from scratch using a different game engine al
 |_)    o  |  _| o __ (_|
 |_)|_| |  | (_| | | |__|
 
-To build and run the example, run:
+To run the example, run:
 
   yarn install
-  yarn run
+  yarn start
 
 Your browser will open on port 3000 where the game will be hosted locally.
+
+To produce a production build, run:
+
+  yarn build
+
+Files will be put in the dist folder.
 
 You may also containerize the application by running:
 
