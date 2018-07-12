@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "license": "UNLICENSE",
   "private": true,
-  "serve": {
-    "mode": "development"
-  },
   "scripts": {
     "build": "webpack --mode=production",
     "start": "webpack-serve --open"
