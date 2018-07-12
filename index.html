@@ -6,11 +6,73 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>🕹️ Retro Game Jam 2018</title>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: monospace;
+            background: black;
+            color: white;
+        }
+
+        canvas {
+            display: none;
+        }
+
+        #loading {
+            text-align: center;
+            margin: calc(50vh - 50px) auto;
+            height: 100px;
+        }
+
+        #loading > .msg {
+            height: 30px;
+            font-size: 20px;
+        }
+
+        #loading > .bar {
+            background: rgba(255, 255, 255, 0.2);
+            margin: 0 auto;
+            width: 300px;
+            height: 50px;
+            position: relative;
+        }
+
+        #loading #loadingprogresstext {
+            position: absolute;
+            width: 100%;
+            height: 50px;
+            line-height: 50px;
+            font-size: 20px;
+        }
+
+        #loading #loadingprogressbar {
+            top: 10px;
+            left: 10px;
+            right: 10px;
+            bottom: 10px;
+            position: absolute;
+        }
+
+        #loading #loadingprogressbar > div {
+            background: rgba(255, 255, 255, 0.4);
+            width: 0%;
+            height: 100%;
+        }
+    </style>
 </head>
 
 <body>
-    <div id="loadingmessage" style="text-align: center; font-family: sans-serif; margin: 50px">
-        Loading...
+    
+    <div id="loading">
+        <div class="msg">Loading...</div>
+        <div class="bar">
+            <div id="loadingprogresstext">0%</div>
+            <div id="loadingprogressbar">
+                <div></div>
+            </div>
+        </div>
     </div>
     <script src="main.js"></script>
 </body>
