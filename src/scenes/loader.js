@@ -29,14 +29,14 @@ export class Loader extends Phaser.Scene {
     create() {
 
         this.anims.create({
-            key: 'splash',
+            key: 'rabbit1_r_run',
             frames: this.anims.generateFrameNames('frames', {
-                prefix: 'splash',
+                prefix: 'rabbit1_r_run',
                 start: 0,
-                end: 8,
+                end: 3,
                 zeroPad: 2
             }),
-            repeat: 0,
+            repeat: -1,
             frameRate: 8,
         });
 

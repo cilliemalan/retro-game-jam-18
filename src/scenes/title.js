@@ -8,8 +8,7 @@ export class Title extends Phaser.Scene {
     }
 
     create() {
-        this.add.image(400, 300, 'rgj');
-        this.add.sprite(400, 300).setScale(5).play('splash');
+        this.add.sprite(30, 30).setScale(1).play('rabbit1_r_run');
         // var logo = this.add.image(400, 150, "logo");
 
         // this.tweens.add({
