@@ -61,15 +61,17 @@ time. The funnest game wins!
   However, your game may be written in any programming language on any platform.
   Note, however, if your platform is not available to voters, they will not be allowed
   to vote for your game.
+* Voting will take place after the Game Jam deadline. Once voting starts there may be no
+  further development.
 
   |    _| _  o __  _ 
 \_||_|(_|(_| | | |(_|
          __|      __|
-Judging will be by vote, most votes win. Voters can be anyone but they must play
-all the games made in the game jam to vote. Competitors may ask friends and
-family to participate in the voting.
+Judging will be by vote, most votes win. Voters can be anyone. Competitors may ask
+friends and family to participate in the judging.
 
-Voting will take place after all game development is complete.
+Voting will take place after the Game Jam deadline. Once voting starts there may be no
+further development.
 
 There may be other sub categories at the moderators' discretion, but main judging will
 be based on the fun-ness of the game alone.
@@ -81,9 +83,12 @@ In this repository you will find the assets you must use in your game. You don't
 use all of the assets and you can add other assets, but your game must retain the general
 idea.
 
+The assets that are a non-negotiable to qualify are the rabbits. The rabbits must be
+PCs (player characters).
+
 This repo contains example code for a web-based game using the assets. You may use the
 code as a base or start completely from scratch using a different game engine altogether.
- _                   
+ _
 |_)    o  |  _| o __  _ 
 |_)|_| |  | (_| | | |(_|
                      __|
