@@ -1,0 +1,6 @@
+Typescript definitions aren't part of Phaser 3 yet.
+see https://github.com/photonstorm/phaser/issues/3224#issuecomment-377535627
+
+This is the typings downloaded manually
+from https://raw.githubusercontent.com/photonstorm/phaser3-docs/master/typescript/phaser.d.ts
+

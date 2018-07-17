@@ -8,6 +8,7 @@
     "start": "webpack-serve --open"
   },
   "devDependencies": {
+    "typescript": "^2.9.2",
     "webpack": "^4.16.0",
     "webpack-cli": "^3.0.8",
     "webpack-serve": "^2.0.2"
