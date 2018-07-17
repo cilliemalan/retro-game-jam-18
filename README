@@ -41,7 +41,6 @@ _|_| | |_ | (_)
 
 Welcome to the 2018 Retro Game Jam. The goal is to create a fun game in a short amount of
 time. The funnest game wins!
-
  _             
 |_)    |  _  _ 
 | \|_| | (/__> 
@@ -63,7 +62,6 @@ time. The funnest game wins!
   your platform is not available to voters, they will not be allowed to vote for
   your game.
 
-
   |    _| _  o __  _ 
 \_||_|(_|(_| | | |(_|
          __|      __|
@@ -75,7 +73,6 @@ Voting will take place after all game development is complete.
 
 There may be other sub categories at the moderators' discretion, but main judging will
 be based on the fun-ness of the game alone.
-
  _                
 |_| _  _  _ _|_ _ 
 | |_> _> (/_ |__> 
@@ -86,17 +83,17 @@ idea.
 
 This repo contains example code for a web-based game using the assets. You may use the
 code as a base or start completely from scratch using a different game engine altogether.
-
- _                    _ 
-|_)    o  |  _| o __ (_|
-|_)|_| |  | (_| | | |__|
-
+ _                   
+|_)    o  |  _| o __  _ 
+|_)|_| |  | (_| | | |(_|
+                     __|
 To run the example, run:
 
   yarn install
   yarn start
 
-Your browser will open on port 3000 where the game will be hosted locally.
+Your browser will open on port 8080 where the game will be hosted locally in
+development mode.
 
 To produce a production build, run:
 
@@ -113,9 +110,19 @@ And run it:
   docker run -P game-jam
 
 Your container is listening on port 3000. Your browser will not open automatically.
-                   _ 
-|_| _  _ _|_ o __ (_|
-| |(_)_>  |_ | | |__|
-
-Hosting will be made available upon request. Your server application will need to be
+                  
+|_| _  _ _|_ o __  _ 
+| |(_)_>  |_ | | |(_|
+                  __|
+Hosting will be made available upon request. Your application will need to be
 containerized if you want hosting. Setting up continuous integration is essential.
+ _                        
+|_) _  _  _     __ _  _  _ 
+| \(/__> (_)|_| | (_ (/__> 
+
+See RESOURCES.
+
+|   o  _  _ __  _  _ 
+|__ | (_ (/_| |_> (/_
+
+This is free and unencumbered software released into the public domain. See LICENSE.
