@@ -1,0 +1,44 @@
+ _                        
+|_) _  _  _     __ _  _  _ 
+| \(/__> (_)|_| | (_ (/__> 
+
+Here are a number of resources that may or may not help you on your journey.
+
+[Game Development]
+  - Medium: https://medium.com/tag/game-design
+  - Extra Credits: https://www.youtube.com/user/ExtraCreditz
+
+[Programming]
+  - Phaser 3 docs: https://photonstorm.github.io/phaser3-docs/
+  - Phaser 3 examples: https://github.com/photonstorm/phaser3-examples
+  - Phaser 3 source: https://github.com/photonstorm/phaser
+  - Webpack docs: https://webpack.js.org/concepts/
+
+[Art Resources]
+  - Sadface_RL: https://twitter.com/Sadface_RL https://bit.ly/sadface_youtube
+
+[Game Assets]
+  - Open Game Art: https://opengameart.org/
+  - Indie Game Music: http://indiegamemusic.com/
+
+[Graphics Tools]
+  - GNU Image Manipulation Program: https://www.gimp.org/
+  - Paint.Net: https://www.getpaint.net/
+  - GraphicsGale: https://graphicsgale.com/us/
+  - Lospec: https://lospec.com/
+  - GrafX2: http://pulkomandy.tk/projects/GrafX2
+  - Leshy SpriteSheet Tool:  https://www.leshylabs.com/apps/sstool/
+  - ShoeBox SpriteSheet Tool: http://renderhjs.net/shoebox/
+  - sprite-sheet-packer: https://github.com/amakaseev/sprite-sheet-packer
+
+[Audio Tools]
+  - Audacity: https://www.audacityteam.org/
+  - WaveShop: http://waveshop.sourceforge.net/
+  - Ardour: https://ardour.org/
+  - Leshy SFMaker: https://www.leshylabs.com/apps/sfMaker/
+
+[Music Tools]
+  - OpenMPT: https://openmpt.org/
+  - Playing MODs in JS: https://github.com/jhalme/webaudio-mod-player/tree/master/js
+  - FlodJS for playing MODs (not tested): https://github.com/photonstorm/FlodJS
+  - FamiTracker: http://famitracker.com/
