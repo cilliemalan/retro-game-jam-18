@@ -13,13 +13,18 @@ Here are a number of resources that may or may not help you on your journey.
   - Phaser 3 examples: https://github.com/photonstorm/phaser3-examples
   - Phaser 3 source: https://github.com/photonstorm/phaser
   - Webpack docs: https://webpack.js.org/concepts/
+  - Integrating Tiled maps with Phaser (old): https://bit.ly/2zMQifu
 
-[Art Resources]
+[Art]
   - Sadface_RL: https://twitter.com/Sadface_RL https://bit.ly/sadface_youtube
+  - tips for making great animations for 2D games: https://ubm.io/2LsLFsE
 
 [Game Assets]
   - Open Game Art: https://opengameart.org/
   - Indie Game Music: http://indiegamemusic.com/
+
+[Game Tools]
+  - Tiled map editor: https://www.mapeditor.org/
 
 [Graphics Tools]
   - GNU Image Manipulation Program: https://www.gimp.org/
