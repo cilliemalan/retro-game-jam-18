@@ -50,17 +50,17 @@ time. The funnest game wins!
   idea of the assets given. (In other words, if the assets are 2D pixel graphics, making
   a 3D FPS is not going to fly).
 * The rabbits must be the player character graphics.
-* Don't break the law while building your game. Use only royalty free or custom
-  made assets.
+* Don't break the law while building your game. Use only royalty free, public domain,
+  or custom made assets.
 * You may not purchase any software or assets to build your game. You may not use
   any software you own that will give you an unfair advantage over other participants.
-* Your game assets and source must be licensed with an open source license. Feel free
-  to use the license it currently has (the unlicense) or use another license.
+* Your game assets and source must be licensed with an open source license.
 * The moderators may disqualify your game if they feel that your participation was unfair
   or not in the spirit of the contest.
-* The game may be written in any programming language on any platform. Note, however, if
-  your platform is not available to voters, they will not be allowed to vote for
-  your game.
+* We recommend you build your game as a HTML Javascript game based on the example.
+  However, your game may be written in any programming language on any platform.
+  Note, however, if your platform is not available to voters, they will not be allowed
+  to vote for your game.
 
   |    _| _  o __  _ 
 \_||_|(_|(_| | | |(_|
